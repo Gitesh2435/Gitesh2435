@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Gitesh2435 | LinkedIn" width="30px" src="https://github.com/Gitesh2435/Gitesh2435/tree/main/icons/linkedin.png?raw=true" />][linkedin]
+[<img align="left" alt="Gitesh2435 | LinkedIn" width="30px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/linkedin.png?raw=true" />][linkedin]
 [<img align="left" alt="Gitesh2435 | Instagram" width="30px" src="https://github.com/Gitesh2435/Gitesh2435/tree/main/icons/instagram.png?raw=true" />][instagram]
 
 <br/><br/>
