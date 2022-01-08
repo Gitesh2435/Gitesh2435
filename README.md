@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="c" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-c-144?raw=true" />
+<!-- <img align="left" alt="c" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-c-144?raw=true" /> -->
 <img align="left" alt="C++" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-c++-144.png?raw=true" />
 <img align="left" alt="Java" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-java-144.png?raw=true" />
 <img align="left" alt="Python" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-python-144.png?raw=true" />
