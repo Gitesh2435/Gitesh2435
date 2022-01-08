@@ -14,17 +14,17 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Android Studio" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons-c?raw=true" />
 <img align="left" alt="C++" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-c++-144.png?raw=true" />
+<img align="left" alt="Java" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-java-144.png?raw=true" />
+<img align="left" alt="Python" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-python-144.png?raw=true" />
 <img align="left" alt="HTML5" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-html-5-144.png?raw=true" />
 <img align="left" alt="CSS3" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-css3-144.png?raw=true" />
 <img align="left" alt="JavaScript" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-javascript-144.png?raw=true" />
 <img align="left" alt="React" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-react-160.png?raw=true" />
 <img align="left" alt="NPM" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-npm-144.png?raw=true" />
-<img align="left" alt="Python" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-python-144.png?raw=true" />
-<img align="left" alt="Java" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-java-144.png?raw=true" />
 <img align="left" alt="MySQL" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-mysql-logo-144.png?raw=true" />
 <img align="left" alt="Solidity" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/file_type_light_solidity_icon_130436.png?raw=true" />
-<img align="left" alt="Android Studio" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-android-studio-240.png?raw=true" />
 <img align="left" alt="Visual Studio Code" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-visual-studio-code-2019-144.png?raw=true" />
 <img align="left" alt="Git" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-git-144.png?raw=true" />
 <img align="left" alt="GitHub" width="80px" src="https://github.com/Gitesh2435/Gitesh2435/blob/main/icons/icons8-github-128.png?raw=true" />
